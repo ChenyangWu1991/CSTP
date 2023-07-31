@@ -15,6 +15,6 @@
 - transformers==4.31.0
 
 ## Two steps to run the codes
-- First, you need to download the codes (ipynb file) and the data (csv file) to the same folder.
+- First, you need to download the codes (ipynb file) and the data (csv file) to **the same folder**.
 - Second, install the packages listed in the "Requirements".
 - Then you can run the codes successfully!
